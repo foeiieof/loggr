@@ -7,5 +7,5 @@ import (
  var Version string = "1.0"
  
  func Log(mess string) {
-  fmt.Println("[LOG] " + mess)
+  fmt.Println("[LOG.v2] :" + mess)
  }
